@@ -1,0 +1,17 @@
+JWT = justWriteAnythingHere
+
+PORT=3008
+
+// input DB_DIALECT and DB_DATABASE value as is below
+DB_DIALECT=postgres
+DB_DATABASE=milikiboda
+
+// input local host if the db is in your local machine, else, write the db url
+DB_HOST=localhost
+
+// ensure your db is running on the port below 
+DB_PORT=5432
+
+// use your set username and password
+DB_USERNAME=postgres_username
+DB_PASSWORD=password
